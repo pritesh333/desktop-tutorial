@@ -201,7 +201,7 @@ div[role="progressbar"] {
 }
 .experience-list {
 	width: 100%;
-	float: left;
+	float: right;
 	padding: 30px 10px;
 	background: #262626;
 	margin-bottom: 20px;
