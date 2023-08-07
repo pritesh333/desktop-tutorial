@@ -98,3 +98,49 @@ nav a {
 	width: 100%;
 	margin-left: 10%;
 }
+
+/*ABOUT ME SECTION*/
+.main-section {
+	width: 100%;
+	float: left;
+	padding: 110px 0px 110px 0px;
+}
+.width-100 {
+	width: 100%;
+	float: left;
+}
+.mt-20 {
+	margin-top: 20px;
+}
+.heading-text {
+	width: 100%;
+	float: left;
+	font-size: 35px;
+	text-align: center;
+	margin-bottom: 50px;
+	color: #ffbf35;
+}
+.about-img {
+	width: 100%;
+	padding: 0px 50px;
+	margin-top: 20px;
+}
+.about-me {
+	width: 100%;
+	float: left;
+	padding: 20px;
+}
+.about-me p {
+	font-size: 16px;
+	margin-top: 15px;
+	line-height: 27px;
+}
+table {
+	width: 100%;
+}
+table th,
+table td {
+	font-size: 16px;
+	text-align: left;
+	padding: 5px 0px;
+}
