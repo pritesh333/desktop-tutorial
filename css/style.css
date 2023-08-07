@@ -201,7 +201,7 @@ div[role="progressbar"] {
 }
 .experience-list {
 	width: 100%;
-	float: right;
+	float: left;
 	padding: 30px 10px;
 	background: #262626;
 	margin-bottom: 20px;
@@ -225,4 +225,32 @@ div[role="progressbar"] {
 }
 .experience-content p {
 	font-size: 15px;
+}
+
+/*SERVICE SECTION*/
+.service-list {
+	padding: 40px;
+	margin-top: 35px;
+	background: #262626;
+	border-radius: 15px;
+	width: 94%;
+	float: left;
+}
+
+.service-list i {
+	font-size: 50px;
+	color: #ffbf35;
+	width: 70px;
+	float: left;
+}
+
+.service-list h3 {
+	font-size: 28px;
+	margin-top: 8px;
+	margin-bottom: 15px;
+}
+
+.service-list p {
+	font-size: 15px;
+	line-height: 25px;
 }
