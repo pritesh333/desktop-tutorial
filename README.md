@@ -1,4 +1,6 @@
 # desktop-tutorial
 GitHub Desktop tutorial repository
 
-sample website for portfolio
+sample portfolio website and uploading through github pages.
+
+
